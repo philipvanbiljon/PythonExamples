@@ -1,4 +1,4 @@
-# PythonExamples
+# Python Examples
 
 The first two relate to Machine Learning and involved using the SKLearn, Seaborn, Numpy and Pandas libraries to manipulate datasets to discover more about the data and perform some classification tasks. The classification included training a Gaussian Naive Bayes Model and experiments using Multivariate Linear Regression.
 
